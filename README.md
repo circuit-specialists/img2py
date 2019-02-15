@@ -6,4 +6,5 @@ Python script to convert images to a usable python class, and convert them back.
 
 ### Options
  `-convert: Convert an image into a python script`
+ 
  `-decode:  Decode a previously converted image file, back into its original image`
